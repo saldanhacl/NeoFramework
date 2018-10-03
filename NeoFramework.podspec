@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name         = 'NeoFramework'
-    s.version      = '0.0.1'
+    s.version      = '0.0.4'
     s.summary      = 'Primeiro teste'
 
     s.description  = 'Este primeiro teste vai funcionar, tenho certeza'

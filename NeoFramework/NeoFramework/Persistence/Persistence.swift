@@ -8,7 +8,7 @@
 
 import Foundation
 
-public class Persistence {
+open class Persistence {
     
     public func printMessage(){
         print("Persistence ok")

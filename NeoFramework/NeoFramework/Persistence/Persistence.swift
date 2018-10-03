@@ -10,7 +10,7 @@ import Foundation
 
 open class Persistence {
     
-    public func printMessage(){
+    open func printMessage(){
         print("Persistence ok")
     } 
     
